@@ -1,0 +1,2 @@
+anna,pizza,pi'tza,man,cat
+open,close,horse
